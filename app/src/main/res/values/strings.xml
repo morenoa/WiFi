@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WiFi</string>
+    <string name="txtTitle">Select your provider in order to see what you save by switching to us.</string>
+    <string name="imgMoney">money</string>
+    <string name="btnCompetitor">Our competition</string>
+    <string name="btnOther">The Slowly Dying Company</string>
+    <string name="txtCost">Enter your monthly payment.</string>
+    <string name="txtSave">Saving</string>
+    <string name="btnSave">Save</string>
+    <string name="radDied">Contract payment</string>
+    <string name="radCompetitor">Pay As You Go</string>
+    <string name="btnHome">Home</string>
+</resources>
